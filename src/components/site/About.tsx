@@ -29,7 +29,7 @@ export function About() {
             A <em className="text-primary">sanctuary</em> shaped by sand, sun & saltwater.
           </h2>
           <p className="about-line text-lg text-muted-foreground max-w-xl">
-            Set directly on Florida's gulf coast, our house was designed to dissolve the line between inside
+            Set directly on Floridas gulf coast, our house was designed to dissolve the line between inside
             and out. Whitewashed walls, raw timber, and floor-to-ceiling glass invite the ocean into every room.
           </p>
           <div className="about-line grid grid-cols-2 gap-6 max-w-md pt-4">
